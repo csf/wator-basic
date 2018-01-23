@@ -1,4 +1,4 @@
-Implementation of [Wa-Tor](https://en.wikipedia.org/wiki/Wa-Tor) in Applesoft Basic.
+# Implementation of [Wa-Tor](https://en.wikipedia.org/wiki/Wa-Tor) in Applesoft Basic.
 
 Wa-Tor simulates ecological cycles between fish and sharks on a water-covered toroidal planet. By setting up the number of fish and sharks, the breeding times of each, and the starvation time for sharks, the simulation progresses stepwise with fish randomly moving and reproducing, and sharks "hunting" or randomly moving around a wrapping grid representing Wa-Tor's toroidal surface.
 
